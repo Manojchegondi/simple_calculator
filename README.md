@@ -15,7 +15,7 @@ Material Components: Google's Material Design guidelines are followed for a visu
 Mozilla Rhino: The Rhino JavaScript engine is used for evaluating and calculating expressions.
 XML Layouts: The app's user interface is defined using XML layout files, providing a flexible and responsive design.
 Getting Started
-Clone the repository: git clone https://github.com/your-username/SimpleCalci.git
+Clone the repository: git clone https://github.com/Manojchegondi/simple_calculator
 Open the project in Android Studio.
 Build and run the app on an Android emulator or a physical device.
 Usage
